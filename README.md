@@ -1,24 +1,20 @@
-![](img/image07.png)
-==========================
+# ![](img/image07.png)
 
 **Primero Instance Syncing Guide**
 
+* **_This is a change from primeromc.com website_**
 
-***Prepared for:***
+**_Prepared for:_**
 
-![](img/image03.png)
-==========================
+# ![](img/image03.png)
 
 3 United Nations Plaza
 
 New York, NY 10017
 
+> **_Prepared by:_**
 
-
-> ***Prepared by:***
-
-![](img/image01.png)
-==========================
+# ![](img/image01.png)
 
 <span style="font-variant:small-caps;">Quoin</span>, Inc.
 
